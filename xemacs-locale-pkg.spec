@@ -2,12 +2,12 @@ Summary:	Localized menubars and localized splash screens
 Summary(pl):	Zlokalizowane paski menu i splash screeny
 Name:		xemacs-locale-pkg
 %define 	srcname	locale
-Version:	1.20
-Release:	2
+Version:	1.21
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	f91249a741613f91f89369eb26458a2d
+# Source0-md5:	2256243bb8cdd282af7b40bc2cf30018
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
