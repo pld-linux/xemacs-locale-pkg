@@ -2,7 +2,7 @@ Summary:	Localized menubars and localized splash screens
 Summary(pl):	Localized menubars and localized splash screens
 Name:		xemacs-locale-pkg
 %define 	srcname	locale
-Version:	1.16
+Version:	1.18
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
