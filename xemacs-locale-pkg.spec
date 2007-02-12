@@ -1,5 +1,5 @@
 Summary:	Localized menubars and localized splash screens
-Summary(pl.UTF-8):   Zlokalizowane paski menu i splash screeny
+Summary(pl.UTF-8):	Zlokalizowane paski menu i splash screeny
 Name:		xemacs-locale-pkg
 %define 	srcname	locale
 Version:	1.21
